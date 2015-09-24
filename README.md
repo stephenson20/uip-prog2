@@ -1,6 +1,6 @@
 # uip-prog2
 ======================================
-Programación de Computadoras III - UIP
+Programación de Computadoras II - UIP
 ======================================
 
 :Autor: <nombre>
